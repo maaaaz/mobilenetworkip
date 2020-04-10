@@ -4,7 +4,7 @@ mobilenetworkip
 Description
 -----------
 IP addresses of various mobile networks
-* `mobile_ip_france.csv` from https://lafibre.info/4g/plages-ip-mobile/
+* `mobile_ip_france.csv` from https://lafibre.info/4g/plages-ip-mobile/ (archived [here](https://web.archive.org/web/20200410095650/https://lafibre.info/4g/plages-ip-mobile/))
   ```
   $ head mobile_ip_france.csv 
   80.214.0.0;"ByTel"
